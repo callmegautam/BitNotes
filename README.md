@@ -1,73 +1,55 @@
-# Welcome to your Lovable project
+# BitNotes 📝✨
 
-## Project info
+Welcome to **BitNotes** — a sleek, personal project notebook where you can organize, track, and manage all your projects in one place.
 
-**URL**: https://lovable.dev/projects/c56175f7-3999-48e7-bd51-a5c2d0a2d83e
+<!-- 🌐 **Live Website:** [bitnotes.gautamsuthar.in](https://bitnotes.gautamsuthar.in) -->
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 Features
 
-**Use Lovable**
+-   🌙 **Dark Mode / Light Mode** → Switch between themes with a click.
+-   🎨 **Custom Card Colors** → Personalize project cards to match your style.
+-   📋 **Multiple Tasks per Project** → Keep track of todos and progress within each project.
+-   📈 **Progress Tracking with % Completion** → See how much you’ve accomplished.
+-   🗑️ **Delete Completed Projects** → Keep your dashboard clean and focused.
+-   📱 **Mobile-Friendly Design** → Use it smoothly on your phone or tablet.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c56175f7-3999-48e7-bd51-a5c2d0a2d83e) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🛣️ Upcoming Features
 
-**Use your preferred IDE**
+-   ✏️ Markdown support in tasks & project description.
+-   🔀 Drag-and-drop to reorder projects & tasks.
+-   🏷️ Project tags & filters.
+-   ☁️ User authentication & cloud sync.
+-   🌍 Public project sharing (show off your work!).
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🤝 Contributing
 
-Follow these steps:
+Pull requests and contributions are **super welcome**!  
+If you have an idea, improvement, or just want to help squash bugs — go for it! ✨
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### How to contribute
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+1. Fork this repo.
+2. Create a new branch (`git checkout -b feature/my-feature`).
+3. Commit your changes (`git commit -m 'Add my feature'`).
+4. Push to the branch (`git push origin feature/my-feature`).
+5. Open a Pull Request.
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## 💬 Let’s Connect
 
-**Edit a file directly in GitHub**
+-   🧑‍💻 **GitHub:** [callmegautam](https://github.com/callmegautam)
+-   🐦 **X (Twitter):** [@iamgautamsuthar](https://x.com/iamgautamsuthar)
+-   📧 **Email:** iamgautamsuthar@gmail.com
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Built with ❤️ by [Gautam Suthar](https://github.com/callmegautam).
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/c56175f7-3999-48e7-bd51-a5c2d0a2d83e) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+⭐ If you like this project, **please star it** — it helps more people discover BitNotes!
