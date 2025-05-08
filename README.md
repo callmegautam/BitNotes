@@ -2,7 +2,7 @@
 
 Welcome to **BitNotes** — a sleek, personal project notebook where you can organize, track, and manage all your projects in one place.
 
-<!-- 🌐 **Live Website:** [bitnotes.gautamsuthar.in](https://bitnotes.gautamsuthar.in) -->
+🌐 **Live Website:** [bitnotes](https://bit-notes.netlify.app)
 
 ---
 
